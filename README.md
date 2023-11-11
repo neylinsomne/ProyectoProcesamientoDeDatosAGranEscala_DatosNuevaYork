@@ -5,14 +5,14 @@ Este proyecto tiene como fin realizar una limpieza, exploración y entrenar mode
 
 ## Herramientas utilizadas y recomendaciones para su funcionamiento
 
-Este proyecto se desarrollo desde databricks. Se baso en el lenguaje ***Python***, sin embargo, tambien se trabajo con ***PySpark** y ***Spark***.\
+Este proyecto se desarrollo desde databricks. Se baso en el lenguaje ***Python***, sin embargo, tambien se trabajo con ***PySpark*** y ***Spark***.\
 Las bases de datos utilizadas se encuentran en los siguientes enlaces:
   1. Base de datos sobre arrestos: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
   2. Base de datos de accidentes viales:  https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
   3. Base de datos de pobreza: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
   4. Base de datos de educación: https://data.cityofnewyork.us/Education/2016-2017-Health-Education-Report/2dzy-e7cu
 
-
+En este caso, recomendamos tener bastante cuidado con el nombre de las tablas al momento de cargarlas. Para poder observar el nombre de las tablas que ha subido, revise con cuidado la primera celda de código (sin incluir la de importación de librerías).
 
 ## Colaboradores
 
