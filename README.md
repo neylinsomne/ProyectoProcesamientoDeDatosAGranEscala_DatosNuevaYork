@@ -1,7 +1,8 @@
 # PROYECTO DE NUEVA YORK - PROCESAMIENTO DE DATOS A GRAN ESCALA
 ## Descripción
+
 Proyecto de procesamiento de datos a gran escala sobre datos de Nueva York a cerca de la pobreza, los accidentes viales, los arrestos y los niveles de educación.\
-Este proyecto tiene como fin realizar una limpieza, exploración y entrenar modelos de *Machine Leaning* sobre un gran volumen de datos sobre la temática ya mencionada. 
+Este proyecto tiene como fin realizar una limpieza, exploración y entrenar modelos de *Machine Leaning* (K means, KNN y regresión logistica) sobre un gran volumen de datos sobre la temática ya mencionada. 
 
 ## Herramientas utilizadas y recomendaciones para su funcionamiento
 
@@ -13,6 +14,10 @@ Las bases de datos utilizadas se encuentran en los siguientes enlaces:
   4. Base de datos de educación: https://data.cityofnewyork.us/Education/2016-2017-Health-Education-Report/2dzy-e7cu
 
 En este caso, recomendamos tener bastante cuidado con el nombre de las tablas al momento de cargarlas. Para poder observar el nombre de las tablas que ha subido, revise con cuidado la primera celda de código (sin incluir la de importación de librerías).
+
+## Estado del proyecto
+
+El proyecto se encuentra finalizado. Corre en su totalidad. 
 
 ## Colaboradores
 
